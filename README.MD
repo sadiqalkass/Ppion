@@ -1,7 +1,11 @@
-# 🏓 Ppion Game (Customized)
+<p align="center">
+  <img src="./Ppion.png" alt="Ppion Banner" width="500"/>
+</p>
+
+# 🏓 Ppion (Ping-Pong Game)
 
 This is a **two-player Ping-Pong Game** built with HTML, CSS, and JavaScript.  
-The base version was created by following an online tutorial (author unknown), and I extended it with custom features to enhance the gameplay.
+The base version was created by following an online tutorial **Bro Code**, and I extended it with custom features to enhance the gameplay.
 
 ## ✨ Features
 - Two-player gameplay  
